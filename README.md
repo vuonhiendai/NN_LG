@@ -1,6 +1,6 @@
 # Supervise learning for single landing gear with MR damper.
 ## Structure of Neural Network
-
+![This is the structure of Neural Network](/NN_structure.png)
 ## Analysis Data
 ```
 clear all;clc;
